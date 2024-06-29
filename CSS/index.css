@@ -1,0 +1,926 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.Section1
+{
+    background-image: url(../images/Illustraction/img5.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    /* border: 2px solid black; */
+}
+.div1
+{
+    /* border: 2px solid red; */
+    margin: 20px;
+    width: 50%;
+    align-items: center;
+}
+.div1 a
+{
+    text-decoration: none;  
+    color: white; 
+    font-size: 17px; 
+}
+.div2768{
+    display: none;
+}
+.div2 
+{
+    
+ display: flex;
+ /* border: 1px solid red; */
+ width: 25%;
+ justify-content: center;
+ justify-content: space-evenly;
+ align-items: center;
+ margin: 0 auto;
+
+}
+.Div{
+    display: flex;
+    
+    /* border: 2px solid palevioletred; */
+   
+}
+.div3
+{
+    color: white;
+    margin-top: 60px;
+    text-align: center;   
+    line-height: 31px;
+}
+.div3 a{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+
+.button1
+{
+    width: 30%;
+    border: 2px solid grey;
+    background-color: grey;
+    
+}
+
+.div4
+{
+    border: 2px solid grey;
+    background-color:rgba(0, 0, 0, 0.50);
+    width: 99%;
+    height: 100px;
+    margin-top: 100px;
+   
+
+}
+.text
+{
+    width: 80%;
+    height: 30px;
+}
+.button2
+{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(40, 220, 220);
+    border: 1px solid rgb(40, 220, 220);;
+}
+
+.button2 a{
+    text-decoration: none;
+    color: white;
+}
+.Select1
+{
+    height: 30px;
+    width: 110%;
+   
+
+}
+.div4_1{
+line-height: 50px;
+text-align: center;
+}
+.div4_2
+{
+    display: flex;
+    /* border: 2px solid black; */
+    width: 95%;
+    justify-content: space-around; 
+}
+.div5
+{
+    background-color: rgb(40, 220, 220);
+    width: 100%;
+    height: 160px;
+    color: white;
+    /* border: 2px solid black; */
+    
+   
+}
+.div5_2
+{
+    font-size: 25px;   
+}
+.blue
+{
+    padding: 25px;
+    text-align: center;  
+}
+.section2
+{
+    text-align: center;
+    margin-top: 40px;
+   
+}
+
+.sec2_1
+{
+    font-size: 24px;
+}
+.div6
+{
+    margin: 40px;
+   
+    /* padding: 5px; */
+    
+}
+.div6_1
+{
+    color: rgb(40, 220, 220);
+    margin: 12px;
+}
+.div6_2
+{
+    color: gray;
+    /* border: 2px solid red; */
+   font-size: 13px;
+   /* width: 100%; */
+   /* margin: 10px; */
+   
+}
+.section3
+{
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+    line-height: 50px;
+}
+
+.imgproperties
+{
+    font-size: 20px;
+    text-align: center;
+}
+.div7
+{
+    /* margin: 15px; */
+}
+.section5
+{
+    margin: 15px;
+    /* border: 1px solid gray; */
+    /* text-align: center; */
+}
+.bor
+{
+     border: 1px solid gray;
+}
+.sec5img
+{
+    margin: 20px;
+}
+.div8{
+margin: 15px;
+line-height: 40px;
+}
+.div8_1
+{
+    font-size: small;
+}
+.div8_2
+{
+    font-size: large;
+    color: rgb(91, 90, 90);
+}
+.div8_3
+{
+    color: gray;
+    line-height: 20px;
+    /* border: 2px solid black; */
+    width: 50%;
+}
+.button3 a{
+    text-decoration: none;
+    color: aqua;
+   
+    
+}
+.button3
+{
+    border: 2px solid aqua;
+    width: 90px;
+    height: 30px;
+    background-color: white;
+}
+
+.div9_1
+{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+   width: 90%;
+   margin: 10px;
+    
+}
+.div9_2
+{
+    /* border: 2px solid red; */
+    width: 45%;
+    margin: 10px;
+    /* text-align: center; */
+    
+}
+.ul
+{
+    list-style-type: none;
+}
+.div10
+{
+    /* border: 2px solid rgb(155, 154, 154); */
+    margin: 10px;
+    text-align: center;
+}
+
+.div10_1
+{
+    /* color: white;
+    background-color: black; */
+    border: 1px solid gray;
+   
+    /* align-items: center; */
+  
+  
+}
+.section6
+{
+    margin: 20px;
+    
+}
+.section7
+{
+    margin: 20px;
+}
+.button4 a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+.button4{
+    background-color: aqua;
+    border: 2px solid aqua;
+    width: 93%;
+    height: 35px;
+    margin: 10px;
+}
+
+.pro1
+{
+    border-radius: 50%;
+    /* border: 2px solid red;    */
+    
+}
+.sec8_1
+{
+    margin-top: 40px;
+    /* margin: 10px; */
+    /* border: 2px solid red; */
+   text-align: center;
+   /* width: 50%; */
+}
+
+    
+.div8_3
+{
+    width: 100%;
+    /* margin: 0 auto; */
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid darkmagenta; */
+
+}
+.div8_4{
+    /* border: 2px solid black; */
+    /* margin: 20px; */
+    padding-top: 15px;
+   
+   
+}
+.div11_1
+{
+    margin: 20px;
+    /* border: 2px solid red; */
+    text-align: center;
+    line-height: 23px;
+}
+.star
+{
+    font-size: 13px;
+}
+.div11_2 
+{
+    border-radius: 50%;
+  
+}
+.flink
+{
+    border: 1px solid rgb(182, 239, 239);
+}
+.facebook
+{
+    border: 1px solid black;
+}
+.twitter
+{
+    border: 1px solid rgb(47, 100, 215);
+}
+.google
+{
+    border: 1px solid red;
+}
+.list1
+{
+    display: none;
+}
+.div4_768
+{
+   display: none;
+}
+.backgroundimg1
+    {
+        background-image: url(../images/Illustraction/img1.jpg);
+         width: 100%;
+        height: 200px;
+        background-size: cover;
+        margin-bottom: 15px;
+     
+    }
+    .backgroundimg2
+    {
+        background-image: url(../images/Illustraction/img2.jpg);
+         width: 100%;
+        height: 200px;
+        background-size: cover;
+        margin-bottom: 15px;
+    }
+    .backgroundimg3
+    {
+        background-image: url(../images/Illustraction/img5.jpg);
+         width: 100%;
+        height: 200px;
+        background-size: cover;
+    }
+    .background
+    {
+      /* border: 2px solid red; */
+      height: 600px;
+      
+
+    }
+    .bgimg
+    {
+        /* border: 2px solid red; */
+        height: 150px;
+       line-height: 30px;
+       padding: 16px;
+    }
+    .button5 
+    {
+        background-color: orange;
+        border: 2px solid orange;
+    }
+
+    .button5 a{
+        text-decoration: none;
+        color: white;
+        font-size: 10px;
+    }
+    .para
+    {
+        color: white;
+    }
+    .para1
+    {
+        font-size: 25px;
+    }
+    .para2
+    {
+        font-size: 17px;
+    }
+    .para3
+    {
+        font-size: 14px;
+    }
+    .section3
+    {
+        
+    }
+    .view768{
+        display: none;
+    }
+    .personal
+    {
+        background-color: rgb(39, 38, 38);
+        color: white;
+       padding-top: 80px;
+        font-size: 20px;
+        /* border: 2px solid red; */
+   
+    }
+    .div10_3
+    {
+        font-size: 30px;
+        /* height: 40px; */
+        /* border: 1px solid gainsboro; */
+        /* padding-top: 5px; */
+    }
+    .div10_1
+    {
+        height: 80px;
+        padding-top: 10px;
+        
+        /* border: 2px solid yellow; */
+       
+      
+    }
+    .section8
+    {
+        margin: 30px;
+        /* width: 65%;
+        margin: 0 auto; */
+    }
+    .footer
+    {
+        background-color:gray;
+        width: 100%;
+        height: 950px;
+    }
+    .div9{
+       margin: 30px;
+       
+    }
+    .ulist1 a{
+        text-decoration: none;
+        color: white;
+        
+    }
+    .ulist1
+    {
+        list-style-type: none;
+        margin: 10px;
+    }
+    .agent a{
+        text-decoration: none;
+        color: white;
+        margin: 10px;
+    }
+
+    .div9{
+       /* border: 2px solid red; */
+      
+       
+    }
+    .div9_9{
+        color: rgb(199, 236, 224);
+        font-size: 17px;
+        /* margin: 10px; */
+        padding: 10px;
+
+       
+        
+    }
+    .footimg a
+    {
+        text-decoration: none;
+        color: white;
+    }
+    .footimg1
+    {
+           color: rgb(244, 237, 237);
+           font-size: 12px;
+    }
+    .footimg2
+    {
+        color: white;
+    }
+    .ListedProperties
+    {
+        display: flex;
+        /* border: 2px solid red; */
+        justify-content: space-evenly;
+    }
+    .b2
+    {
+        display: flex;
+    }
+    .Morden
+    {
+        /* border: 2px solid black; */
+    }
+
+    .footer1
+    {
+      margin: 20px;
+    }
+    .class1
+    {
+    margin: 15px;
+    /* border: 2px solid red; */
+    }
+    .contact
+    {
+        display: flex;
+        align-items: center;
+        margin: 10px;
+        /* padding: 15px; */
+    }
+    .Touch
+    {
+        margin: 10px;
+    }
+    .address
+    {
+        margin: 10px;
+        /* border: 1px solid black; */
+        width: 50%;
+        font-size: 15px;
+        color: white;
+    }
+    .fwhite
+    {
+        border: 1px solid white;
+    }
+    .contact1
+    {
+        color: white;
+    }
+    .footerend
+    {
+        margin: 10px;
+    }
+ @media(min-width:768px)
+ {
+    .Touch
+    {
+        /* border: 2px solid blue; */
+        position: relative;
+        left: 60px;
+    }
+    .sec768{
+        display: flex;
+    }
+     .div7_1
+    {
+        display: flex;
+        justify-content: space-between;
+       /* border: 2px solid red; */ 
+       
+    }
+    .ListedProperties
+    {
+        padding: 10px;
+    }
+   
+    .backgroundimg1
+    {
+        width: 45%;
+    }
+    .backgroundimg2
+    {
+        width: 45%;
+    }
+
+     .div7_2
+    {
+         width: 45%;
+    }  
+
+    .sec7_2{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    
+    .div2{
+        display:none;
+    }
+    .div2768{
+        display: block;
+        /* border: 2px solid red; */
+        margin: 20px;
+        width: 20%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .div2768 a
+     {
+            text-decoration: none;
+            color: white;
+     }
+    .div1{
+        width: 70%;
+    }
+    .list1{
+        display: block;
+        /* border: 2px solid red;  */
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .div3{
+        margin: 100px;
+    }
+    .button1{
+        width: 90px;
+        height: 30px;
+    }
+    .ullist a
+   {
+    text-decoration: none;
+    color: white;
+   }
+   .ullist{
+    list-style-type: none;
+    display: flex;
+    /* justify-content: space-evenly; */
+    justify-content: space-around;
+    
+  }
+  .div4{
+    display: none;
+  }
+  .div4_768
+  {
+    display: block;
+    background-color: rgba(80, 78, 78, 0.884);
+    width: 100%;
+    height: 110px;
+  }
+  .search
+  {
+    /* text-align: center; */
+   /* align-items: center; */
+  border: 2px solid black;
+  padding: 20px;
+ text-align: center;
+  }
+  .search2
+  {
+    height: 30px;
+    /* border: 1px solid red; */
+  
+  }
+  .search2 a {
+    text-decoration: none;
+    color: white;
+   
+   
+   }
+  .sec
+  {
+    width: 90px;
+  }
+  .sec_1
+  {
+    background-color: aqua;
+    border: 1px solid aqua;
+  }
+  .search3
+  {
+    padding: 5px;
+  }
+  .div5_2{
+    margin: 3px;
+    /* border: 2px solid red; */
+    padding: 20px;
+  }
+  .section3
+{
+    height: 500px;
+    /* border: 2px solid red; */
+}
+.section5{
+    display: none;
+}
+.ul{
+    /* margin: 10px; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    /* border: 2px solid black; */
+    width: 90%;
+}
+.view768_1
+{
+    border: 2px solid  rgb(246, 242, 242);
+    width: 50%;
+}
+.section6
+{
+    /* margin: 0 auto; */
+    padding-top: 40px;
+    /* border: 2px solid red; */
+    width: 92%;
+     position: relative;
+     left: 16px; 
+    
+}
+.div768_2
+{
+    background-image: url(../images/Illustraction/img6.jpg);
+    width: 60%;
+    height: 300px;
+    background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+.view768
+{
+    display: flex;
+  /* border: 2px solid black; */
+    margin: 50px;
+    width: 90%;
+    /* position: relative;
+    left: 10%; */
+  
+    
+}
+.section6_10
+{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+}
+.div10{
+    width: 35%;
+    height: 300px;
+}
+.b1{
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+.div8_4
+{
+    padding-top: 60px;
+}
+.f1{
+display: flex;
+/* border: 2px solid red; */
+justify-content: space-around;
+height: 300px;
+padding: 30px;
+}
+.footer
+    {
+        height: 725px;
+    }
+.fend2
+{
+    display: flex;
+    /* border: 2px solid black; */
+    width: 80%;
+    margin: 0 auto;
+}
+.class1
+{
+    
+    /* border: 2px solid red; */
+    /* text-align: center; */
+    width: 50%;
+    
+     
+
+    
+   
+}
+.T1{
+    /* border: 2px solid red; */
+    /* width: 130%; */
+   text-align: center;
+}
+.class2
+{
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    width: 90%;
+    position: relative;
+    left: 70px;
+    
+}
+
+ }
+ @media(min-width:992px)
+ {
+    .sec992
+    {
+        display:  flex;
+    }
+    .div7{
+        display: flex;
+        justify-content: space-evenly;
+        /* margin: 10px; */
+        /* border: 2px solid red; */
+    }
+    .div7_1
+    {
+        display: flex;
+        justify-content: space-between;
+       /* border: 2px solid red; */
+    } 
+     
+     .div7_2
+    {
+        width: 32%;
+    }
+
+    .sec7_1
+    {
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+        /* border: 2px solid blue; */
+    }
+    .sec7_2{
+        display: flex;
+        justify-content: space-evenly;
+        /* border: 2px solid red; */
+        width: 50%;
+    }
+    .background{
+        display: flex;
+        justify-content: space-around;
+        /* border: 2px solid blue;. */
+       
+    }
+    .backgroundimg3
+    {
+        /* border: 2px solid blue; */
+        width: 90%;
+        /* margin: 20px; */
+        
+        
+    }
+    .div7_1{
+        /* border: 2px solid black; */
+        width: 60%;
+    }
+    .section3
+{
+    height: 300px;
+    /* border: 2px solid red; */
+}
+.Fend
+{
+   
+    /* border: 2px so   lid gold; */
+    display: flex;
+    justify-content: space-between;
+    /* margin: 50px; */
+    width: 90%;
+    /* padding: 30px; */
+   
+}
+.class1
+{
+    /* margin: 40px; */
+    /* border: 2px solid red; */
+    /* text-align: center; */
+    width: 35%
+    
+    
+   
+}
+
+
+.section8
+    {
+        /* margin: 30px; */
+        width: 55%;
+        margin: 0 auto; 
+    }
+    .div768_2
+{
+    /* background-image: url(../images/Illustraction/img6.jpg); */
+    width: 50%;
+    height: 300px;
+    background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+ }
